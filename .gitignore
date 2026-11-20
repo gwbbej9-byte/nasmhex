@@ -1,0 +1,4 @@
+*.o
+nasmhex
+__pycache__/
+.pytest_cache/
